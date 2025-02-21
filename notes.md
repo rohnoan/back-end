@@ -26,3 +26,9 @@ these are my journey notes from javascript backend roadmap by hitesh (chai with 
 (5)data modelling for backend with mongoose
     moon modeler/erasor for modelling data
     how to - make a blank screen and then see what all data to store when ur going through the app
+
+(6) ecommerce data modelling 
+    learned data modelling with mongoose
+
+(7) start backend
+    make gitignore file so that the sensitive information isnt pushed to github
